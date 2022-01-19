@@ -44,9 +44,9 @@ Java를 통한 Web 애플리케이션을 주로 만들며 공부하였습니다.
 
 ## **📚프로젝트**
 
-### TripDiary
+### TASKWITH
 개발 기간 : 2021.09.23 ~ 2021.11.10  
-[Details : Task With](./TASKWITH.html)
+[Details : TASKWITH](./TASKWITH.html)
 
 ### cafeCarp
 개발 기간 : 2021.11.17 ~ 2022.01.05  
