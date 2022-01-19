@@ -44,7 +44,7 @@ layout: default
 
 # 개발에 사용된 사이트(링크)
 ### [DB설계](https://www.erdcloud.com/d/FaRu2ndnR6CpahErz)
-### [UI설계](https://ovenapp.io/view/x1X1N4XzySXvC2P23rEx5rPyi4NGNX42/j0mer)
+### [UI설계](https://ovenapp.io/view/x1X1N4XzySXvC2P23rEx5rPyi4NGNX42/)
 ### [개발코드 및 기타 설계문서](https://https://github.com/JinSolKwon/teamProject_KG-ITBANK)
 ### [발표자료](https://docs.google.com/presentation/d/1O0zuApfCOP0d7C1YhCcix49gTv5_O5HhzFjarVwr888/edit?usp=sharing)
 <br>
