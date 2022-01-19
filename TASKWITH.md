@@ -4,7 +4,7 @@ layout: default
 
 # TASKWITH
 
-![TASKWITH_logo](/assets/img/logo1.jpg)
+![TASKWITH_logo](https://user-images.githubusercontent.com/88972646/150100002-317d8b5e-e764-4015-b1f0-c7c8f67fcaf9.png)
 
 # 프로젝트 소개
 ### 개발기간 2021.9.23 ~ 2021.11.10 
