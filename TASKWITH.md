@@ -4,7 +4,7 @@ layout: default
 
 # TASKWITH
 
-![TASKWITH_logo](/assets/img/main.jpg)
+![TASKWITH_logo](/assets/img/logo1.jpg)
 
 # 프로젝트 소개
 ### 개발기간 2021.9.23 ~ 2021.11.10 
