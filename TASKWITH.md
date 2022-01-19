@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Trip Diary
+# TASKWITH
 
 ![Trip_Diary_logo](https://user-images.githubusercontent.com/88276563/147346116-c4fe43ca-2b06-4770-b6a4-f7417e98a39b.png)
 
@@ -20,10 +20,10 @@ layout: default
 <br><br>
 
 # 팀원
-- 이화석
-- 조민혁
-- 안정찬
-- 김태민
+- 권진솔
+- 서찬기
+- 서현진
+- 강을원
 - 박준하
 <br><br>
 
