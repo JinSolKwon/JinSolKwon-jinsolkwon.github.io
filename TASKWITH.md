@@ -41,6 +41,7 @@ layout: default
 ### [UI설계](https://drive.google.com/file/d/1mqYBBGTPlgddM-H38VRFkN0-a3hEnkas/view?usp=sharing)
 ### [개발코드 및 기타 설계문서](https://github.com/JinSolKwon/teamProject_KG-ITBANK)
 ### [발표자료](https://docs.google.com/presentation/d/1O0zuApfCOP0d7C1YhCcix49gTv5_O5HhzFjarVwr888/edit?usp=sharing)
+### [구현완료영상](https://drive.google.com/file/d/1MlNpPhd914cDbtMxbGFGzg8YskoDYe-t/view?usp=sharing)
 <br>
 
 # 개발환경 및 개발도구
