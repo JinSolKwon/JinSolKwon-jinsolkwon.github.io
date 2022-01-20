@@ -53,6 +53,7 @@ layout: default
 ### [기타설계문서(깃허브)](https://github.com/JinSolKwon/cafeKiosk)
 ### [PPT자료](https://docs.google.com/presentation/d/1YpJmQV32lOIxAVv9igVgFp07jJFyp8jbgdyOlBOHsNg/edit#slide=id.p1)
 ### [세부일정계획표](https://docs.google.com/spreadsheets/d/1QmlWY-MhG9CwIqt_5TTt8NeKvUeNJZz743VhFsjidyg/edit?usp=drive_web&ouid=101429968988774976735)
+### [구현완료영상](https://drive.google.com/file/d/1hbmH0e6huS2b6ldo5JPKRdxOiWouxazQ/view?usp=sharing)
 
 # 개발환경 및 개발도구
 ![개발도구](https://user-images.githubusercontent.com/88276563/148647058-0a708294-7957-415a-82d8-ae05b15ba817.png)
