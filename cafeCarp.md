@@ -48,7 +48,7 @@ layout: default
 
 # 개발에 사용된 사이트(링크)
 ### [DB설계](https://www.erdcloud.com/d/aQX5XH6FSpQ5boebz)
-### [UI설계](https://ovenapp.io/view/o6qhI0UDdZZMsPge61fidf2eYWlOeL7D/)
+### [UI설계](https://drive.google.com/file/d/1hbmH0e6huS2b6ldo5JPKRdxOiWouxazQ/view?usp=sharing)
 ### [개발코드(깃허브)](https://github.com/JinSolKwon/cafeKiosk-code-)
 ### [기타설계문서(깃허브)](https://github.com/JinSolKwon/cafeKiosk)
 ### [PPT자료](https://docs.google.com/presentation/d/1YpJmQV32lOIxAVv9igVgFp07jJFyp8jbgdyOlBOHsNg/edit#slide=id.p1)
